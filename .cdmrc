@@ -1,2 +1,0 @@
-playground-view: terminal
-terminal: ["vim hello.txt"]
